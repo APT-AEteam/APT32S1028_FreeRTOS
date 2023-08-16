@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="E:\OneDrive\APT\APT_MCU_IC\Demo_code\APT32F102\APT32S1028_Release_V1_09_20230105\Workspace\APT32S1028_Release_TKLib_V1_05\APT32S1028_Release_TKLib_V1_05\APT32S1028_Release_TKLib_V1_05.cdkws">
+  <int Value="1" Name="m_selectedTab"/>
+  <wxString Value="E:\OneDrive\APT\APT_MCU_IC\Demo_code\APT32F102\APT32S1028_Release_V1_09_20230105\Workspace\APT32S1028_Release_TKLib_V1_05\APT32S1028_Release_TKLib_V1_05\APT32S1028_Release_TKLib_V1_05.cdkws" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="E:\OneDrive\APT\APT_MCU_IC\Demo_code\APT32F102\APT32S1028_Release_V1_09_20230105\Source\main.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="41" Name="FirstVisibleLine"/>
+      <int Value="53" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="E:\OneDrive\APT\APT_MCU_IC\Demo_code\APT32F102\APT32S1028_Release_V1_09_20230105\Source\apt32s1028_initial.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="422" Name="FirstVisibleLine"/>
+      <int Value="426" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="E:\OneDrive\APT\APT_MCU_IC\Demo_code\APT32F102\APT32S1028_Release_V1_09_20230105\Source\apt32s1028_interrupt.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="41" Name="FirstVisibleLine"/>
+      <int Value="51" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>

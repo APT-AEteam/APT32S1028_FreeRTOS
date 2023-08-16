@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\apt32s1028.cdkws">
+  <int Value="24" Name="m_selectedTab"/>
+  <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\apt32s1028.cdkws" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\ckcpu.ld" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\main.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="139" Name="FirstVisibleLine"/>
+      <int Value="156" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\drivers\apt32s1028.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="1" Name="FirstVisibleLine"/>
+      <int Value="25" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\drivers\apt32s1028_ck801.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="34" Name="FirstVisibleLine"/>
+      <int Value="44" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\include\apt32s1028.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="23" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\arch\mem_init.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\portable\CDK\E801\portmacro.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="105" Name="FirstVisibleLine"/>
+      <int Value="153" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\portable\CDK\E801\portasm.S" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="100" Name="FirstVisibleLine"/>
+      <int Value="73" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\portable\CDK\E801\port.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="41" Name="FirstVisibleLine"/>
+      <int Value="124" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\include\FreeRTOS.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="830" Name="FirstVisibleLine"/>
+      <int Value="840" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\csi_core\include\csi_gcc.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="22" Name="FirstVisibleLine"/>
+      <int Value="56" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\tasks.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="3411" Name="FirstVisibleLine"/>
+      <int Value="3466" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\include\stackmacros.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="33" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\include\task.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="185" Name="FirstVisibleLine"/>
+      <int Value="195" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\include\stack_macros.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="40" Name="FirstVisibleLine"/>
+      <int Value="58" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\include\portable.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="176" Name="FirstVisibleLine"/>
+      <int Value="186" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\apt32s1028_interrupt.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="830" Name="FirstVisibleLine"/>
+      <int Value="846" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\arch\crt0.S" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="83" Name="FirstVisibleLine"/>
+      <int Value="97" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\include\apt32s1028_ck801.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="102" Name="FirstVisibleLine"/>
+      <int Value="128" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\csi_core\include\core_801.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\csi_core\include\csi_core.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="26" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\.cache\macro.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="8" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\C-Sky\CDKRepo\Toolchain\CKV2ElfMinilib\V3.10.29\R\csky-elfabiv2\sys-include\stdint.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="20" Name="FirstVisibleLine"/>
+      <int Value="44" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\FreeRTOSConfig.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="30" Name="FirstVisibleLine"/>
+      <int Value="55" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\apt32s1028_initial.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="197" Name="FirstVisibleLine"/>
+      <int Value="230" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FWlib\apt32s1028_syscon.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="662" Name="FirstVisibleLine"/>
+      <int Value="698" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\C-Sky\CDK\CSKY\csi\csi_core\include\csi_core.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="12" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FWlib\apt32s1028_uart.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="275" Name="FirstVisibleLine"/>
+      <int Value="303" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\timers.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="577" Name="FirstVisibleLine"/>
+      <int Value="595" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\queue.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="1013" Name="FirstVisibleLine"/>
+      <int Value="1023" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\include\queue.h" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="F:\lhy\00-APT\03-102x\APT32S1028_freertos\Source\FreeRTOS\portable\MemMang\heap_4.c" Name="FileName"/>
+      <wxString Value="apt32s1028" Name="ProjectName"/>
+      <int Value="67" Name="FirstVisibleLine"/>
+      <int Value="91" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
